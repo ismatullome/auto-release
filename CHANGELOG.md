@@ -1,5 +1,12 @@
 
 
+## [0.3.3](https://github.com/1smat/auto-release/compare/0.3.1...0.3.3) (2023-08-21)
+
+
+### Bug Fixes
+
+* smth ([f5593b3](https://github.com/1smat/auto-release/commit/f5593b3ebe0046219415781d184c866cd773b3fb))
+
 ## [0.3.1](https://github.com/1smat/auto-release/compare/0.3.0...0.3.1) (2023-08-21)
 
 
