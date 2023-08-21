@@ -1,5 +1,12 @@
 
 
+## [0.3.1](https://github.com/1smat/auto-release/compare/0.3.0...0.3.1) (2023-08-21)
+
+
+### Chore
+
+* release 0.3.1 ([fd16ecb](https://github.com/1smat/auto-release/commit/fd16ecb3754189e01ccd99cfdf191421bd8f12b6))
+
 ## [0.3.0](https://github.com/1smat/auto-release/compare/0.2.2...0.3.0) (2023-08-21)
 
 
