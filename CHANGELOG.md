@@ -1,5 +1,25 @@
 
 
+## [0.3.0](https://github.com/1smat/auto-release/compare/0.2.2...0.3.0) (2023-08-21)
+
+
+### Chore
+
+* **release:** 0.2.3 ([5007e26](https://github.com/1smat/auto-release/commit/5007e267da4000182af5836d5d337ef305ccee13))
+* **release:** 0.2.4 ([d10f876](https://github.com/1smat/auto-release/commit/d10f87660e8424f42722e1ca30f4335db66b51e7))
+* some chore msg ([c5cf6c9](https://github.com/1smat/auto-release/commit/c5cf6c9da5a6ffa1dd977b335b3f36976043148e))
+
+
+### Features
+
+* some feature msg ([d496bdd](https://github.com/1smat/auto-release/commit/d496bdd75813de87373ac5b570573e38ef00c30c))
+
+
+### Bug Fixes
+
+* release-it config ([90bf76e](https://github.com/1smat/auto-release/commit/90bf76eddea3e3f31da5044a87d90eb5a690ccf8))
+* some fix msg ([7330649](https://github.com/1smat/auto-release/commit/7330649f2ebbba5cc043348fe6441130b3738be1))
+
 ## [0.2.4](https://github.com/1smat/auto-release/compare/0.2.2...0.2.4) (2023-08-21)
 
 
