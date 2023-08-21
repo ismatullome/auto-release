@@ -1,5 +1,17 @@
 
 
+## [0.2.4](https://github.com/1smat/auto-release/compare/0.2.2...0.2.4) (2023-08-21)
+
+
+### Chore
+
+* **release:** 0.2.3 ([5007e26](https://github.com/1smat/auto-release/commit/5007e267da4000182af5836d5d337ef305ccee13))
+
+
+### Bug Fixes
+
+* release-it config ([90bf76e](https://github.com/1smat/auto-release/commit/90bf76eddea3e3f31da5044a87d90eb5a690ccf8))
+
 ## [0.2.2](https://github.com/1smat/auto-release/compare/0.2.1...0.2.2) (2023-08-21)
 
 
