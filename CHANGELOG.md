@@ -1,5 +1,17 @@
 
 
+## [0.2.2](https://github.com/1smat/auto-release/compare/0.2.1...0.2.2) (2023-08-21)
+
+
+### Bug Fixes
+
+* some fake fix msg ([f966612](https://github.com/1smat/auto-release/commit/f966612a54f2f667282f78236123287f39cf0d03))
+
+
+### Chore
+
+* release--it config ([621db53](https://github.com/1smat/auto-release/commit/621db535c350e34cbcde55aa48d94009d30f2e7f))
+
 ## [0.2.1](https://github.com/1smat/auto-release/compare/0.2.0...0.2.1) (2023-08-21)
 
 
