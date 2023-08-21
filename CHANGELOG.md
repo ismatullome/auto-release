@@ -1,5 +1,12 @@
 
 
+## [0.2.1](https://github.com/1smat/auto-release/compare/0.2.0...0.2.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* refactored release-it config to json file ([1a339a2](https://github.com/1smat/auto-release/commit/1a339a2f7c3b2f3fbc9e089ff816b605099380af))
+
 ## [0.2.0](https://github.com/1smat/auto-release/compare/0.1.1...0.2.0) (2023-08-21)
 
 
