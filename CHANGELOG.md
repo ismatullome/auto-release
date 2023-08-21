@@ -1,5 +1,12 @@
 
 
+## [0.2.0](https://github.com/1smat/auto-release/compare/0.1.1...0.2.0) (2023-08-21)
+
+
+### Features
+
+* **app.tsx:** added app file ([6b18915](https://github.com/1smat/auto-release/commit/6b18915c062a87020550f356d8211c8dd1eb10d3))
+
 ## [0.1.1](https://github.com/1smat/auto-release/compare/0.1.0...0.1.1) (2023-08-21)
 
 
