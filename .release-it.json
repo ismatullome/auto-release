@@ -31,16 +31,16 @@
 				"name": "conventionalcommits",
 				"types": [
 					{
+						"type": "chore",
+						"section": "Chore"
+					},
+					{
 						"type": "feat",
 						"section": "Features"
 					},
 					{
 						"type": "fix",
 						"section": "Bug Fixes"
-					},
-					{
-						"type": "chore",
-						"section": "Chore"
 					}
 				]
 			}
