@@ -1,5 +1,13 @@
 
 
+## [0.3.6](https://github.com/1smat/auto-release/compare/0.3.3...0.3.6) (2023-08-21)
+
+
+### Bug Fixes
+
+* qwe ([7e44da2](https://github.com/1smat/auto-release/commit/7e44da28ea36accbfd3955a581e60b86b9742cad))
+* smth ([8ab8b3d](https://github.com/1smat/auto-release/commit/8ab8b3d6a1edca989ace385dd508c2ac2ea3564b))
+
 ## [0.3.5](https://github.com/1smat/auto-release/compare/0.3.3...0.3.5) (2023-08-21)
 
 
