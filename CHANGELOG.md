@@ -1,4 +1,13 @@
+# Changelog
 
+## 0.4.0 (2023-09-02)
+
+
+### Features
+
+
+
+### Bug Fixes
 
 ## [0.3.6](https://github.com/1smat/auto-release/compare/0.3.3...0.3.6) (2023-08-21)
 
