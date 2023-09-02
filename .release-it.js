@@ -1,14 +1,16 @@
-import { readFileSync } from "fs";
+const fs = require("fs");
 
-const commitTemplate = readFileSync("template.hbs").toString();
+const commitTemplate = fs.readFileSync("template.hbs").toString();
 
-export const npm = {
-  publish: false,
-};
-export const plugins = {
-  "@release-it/conventional-changelog": {
-    writerOpts: {
-      commitPartial: commitTemplate,
+module.exports = {
+  npm: {
+    publish: false,
+  },
+  plugins: {
+    "@release-it/conventional-changelog": {
+      writerOpts: {
+        commitPartial: commitTemplate,
+      },
     },
   },
 };
