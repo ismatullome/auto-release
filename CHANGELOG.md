@@ -1,5 +1,12 @@
 
 
+## [0.7.1](https://github.com/1smat/auto-release/compare/0.7.0...0.7.1) (2023-09-02)
+
+
+### Bug Fixes
+
+* **release-it:** json file ([1bcc955](https://github.com/1smat/auto-release/commit/1bcc9557bea0a12bac263a7a65ad157c18cae26f))
+
 ## [0.7.0](https://github.com/1smat/auto-release/compare/0.3.6...0.7.0) (2023-09-02)
 
 
