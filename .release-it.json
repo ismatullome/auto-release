@@ -8,19 +8,7 @@
   "plugins": {
     "@release-it/conventional-changelog": {
       "infile": "CHANGELOG.md",
-      "preset": {
-        "name": "atom",
-        "types": [
-          {
-            "type": "feat",
-            "section": "Features"
-          },
-          {
-            "type": "fix",
-            "section": "Bug Fixes"
-          }
-        ]
-      }
+      "preset": "atom"
     }
   }
 }
