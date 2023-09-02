@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.6.0 (2023-09-02)
+
+
+### Features
+
+* **release:** new template ([4664fe1](https://github.com/1smat/auto-release/commit/4664fe16447208b3a41608050c2424e27f6b289c))
+
+
+### Bug Fixes
+
+* config ([5831591](https://github.com/1smat/auto-release/commit/58315916f422ad44f228aa657d8ae82ee10b628c))
+* release it config ([6e5b724](https://github.com/1smat/auto-release/commit/6e5b724b12798d65bd67e641796e4e346c349e4a))
+* **release:** new template ([fdaada1](https://github.com/1smat/auto-release/commit/fdaada185dc1bd29d9be4d94d2dbc83ab7c4b5b3))
+
 ## 0.5.0 (2023-09-02)
 
 
