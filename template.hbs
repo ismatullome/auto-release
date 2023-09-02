@@ -1,34 +1,17 @@
-{{#each releases}}
-  {{#if href}}
-    ## [{{title}}]({{href}}){{#if tag}} - ({{niceDate}}){{/if}}
-  {{else}}
-    ## {{title}}{{#if tag}} - ({{niceDate}}){{/if}}
-  {{/if}}
+## [{{version}}]({{compareLink}}) ({{releaseDate}})
 
-  {{#if summary}}
-    {{summary}}
-  {{/if}}
+{{#if features.length}}
+### Features
 
-  {{#if feat}}
-    ### Features
-
-    {{#each feat}}
-      - {{#if commit.breaking}}**Breaking change:** {{/if}}{{message}} {{#if href}}[`#{{id}}`]({{href}}){{/if}}
-    {{/each}}
-  {{/if}}
-
-  {{#if fix}}
-    ### Fixed
-
-    {{#each fix}}
-      - {{#if commit.breaking}}**Breaking change:** {{/if}}{{commit.subject}}{{#each fix}} {{#if href}}[`#{{id}}`]({{href}}){{/if}}{{/each}}
-    {{/each}}
-  {{/if}}
-
-  - each commit - {{breaking}}
-
-  {{#commit-list commits heading='### Commits'}}
-    - {{#if breaking}}**Breaking change:** {{/if}}{{subject}} {{#if href}}[`{{shorthash}}`]({{href}}){{/if}}
-  {{/commit-list}}
-
+{{#each features}}
+* **{{this.title}}** ([{{this.commit}}]({{this.commitLink}}))
 {{/each}}
+{{/if}}
+
+{{#if bugFixes.length}}
+### Bug Fixes
+
+{{#each bugFixes}}
+* {{this.title}} ([{{this.commit}}]({{this.commitLink}}))
+{{/each}}
+{{/if}}
