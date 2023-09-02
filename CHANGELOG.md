@@ -1,5 +1,12 @@
 
 
+## [0.7.2](https://github.com/1smat/auto-release/compare/0.7.1...0.7.2) (2023-09-02)
+
+
+### Bug Fixes
+
+* **release-it:** json file to angular ([693ff95](https://github.com/1smat/auto-release/commit/693ff95eeb285a45a49dea76880f34595a0bd9b1))
+
 ## [0.7.1](https://github.com/1smat/auto-release/compare/0.7.0...0.7.1) (2023-09-02)
 
 
