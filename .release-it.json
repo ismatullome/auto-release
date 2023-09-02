@@ -1,9 +1,6 @@
 {
   "git": {
-    "commitMessage": "chore(release): v${version}",
-    "changelog": "git log --pretty=format:\"* %s (%h)\" ${from}...${to}",
-    "tagAnnotation": "Release ${version}",
-    "pushArgs": ["--follow-tags"]
+    "commitMessage": "chore(release): ${version}"
   },
   "npm": {
     "publish": false
@@ -21,8 +18,7 @@
           {
             "type": "fix",
             "section": "Bug Fixes"
-          },
-          {}
+          }
         ]
       }
     }
