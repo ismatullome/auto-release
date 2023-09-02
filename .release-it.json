@@ -38,9 +38,6 @@
       "parserOpts": {
         "mergePattern": "^Merge pull request #(\\d+) from (.*)$"
       },
-      "writerOpts": {
-        "groupBy": "scope"
-      },
       "preset": {
         "name": "conventionalcommits",
         "types": [
