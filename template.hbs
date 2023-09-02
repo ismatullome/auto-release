@@ -1,0 +1,34 @@
+{{#each releases}}
+  {{#if href}}
+    ## [{{title}}]({{href}}){{#if tag}} - ({{niceDate}}){{/if}}
+  {{else}}
+    ## {{title}}{{#if tag}} - ({{niceDate}}){{/if}}
+  {{/if}}
+
+  {{#if summary}}
+    {{summary}}
+  {{/if}}
+
+  {{#if feat}}
+    ### Features
+
+    {{#each feat}}
+      - {{#if commit.breaking}}**Breaking change:** {{/if}}{{message}} {{#if href}}[`#{{id}}`]({{href}}){{/if}}
+    {{/each}}
+  {{/if}}
+
+  {{#if fix}}
+    ### Fixed
+
+    {{#each fix}}
+      - {{#if commit.breaking}}**Breaking change:** {{/if}}{{commit.subject}}{{#each fix}} {{#if href}}[`#{{id}}`]({{href}}){{/if}}{{/each}}
+    {{/each}}
+  {{/if}}
+
+  - each commit - {{breaking}}
+
+  {{#commit-list commits heading='### Commits'}}
+    - {{#if breaking}}**Breaking change:** {{/if}}{{subject}} {{#if href}}[`{{shorthash}}`]({{href}}){{/if}}
+  {{/commit-list}}
+
+{{/each}}
