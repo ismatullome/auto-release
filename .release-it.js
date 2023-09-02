@@ -3,6 +3,32 @@ const fs = require("fs");
 const commitTemplate = fs.readFileSync("template.hbs").toString();
 
 module.exports = {
+  git: {
+    commitMessage: "chore(release): v${version}",
+    changelog: 'git log --pretty=format:"* %s (%h)" ${from}...${to}',
+    requireCleanWorkingDir: true,
+    requireBranch: false,
+    requireUpstream: true,
+    requireCommits: false,
+    requireCommitsFail: true,
+    commitsPath: "",
+    addUntrackedFiles: false,
+    commit: true,
+    commitArgs: [],
+    tag: false,
+    tagExclude: null,
+    tagName: null,
+    tagMatch: null,
+    getLatestTagFromAllRefs: false,
+    tagAnnotation: "Release ${version}",
+    tagArgs: [],
+    push: true,
+    pushArgs: ["--follow-tags"],
+    pushRepo: "",
+  },
+  npm: {
+    publish: false,
+  },
   plugins: {
     "@release-it/conventional-changelog": {
       infile: "CHANGELOG.md",
