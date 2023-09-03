@@ -1,5 +1,35 @@
 
 
+## [0.8.0](https://github.com/1smat/auto-release/compare/0.7.2...0.8.0) (2023-09-03)
+
+
+### Features
+
+* cz config ([56037d3](https://github.com/1smat/auto-release/commit/56037d309c90c7a02425410fd0a532201bad287a))
+
+
+### Bug Fixes
+
+* bugs ([cfc1143](https://github.com/1smat/auto-release/commit/cfc1143ae674bb9e9d4777b6754efaae44bf9b4b))
+* **release-it:** config file ([2b40955](https://github.com/1smat/auto-release/commit/2b409559beb456f8e8e47d78234ba51ec6df57ee))
+* **release-it:** converntional log ([c70a9cd](https://github.com/1smat/auto-release/commit/c70a9cd3c66187b102fba185d50b4ca557ba2543))
+* **release-it:** json file to atom ([18b3078](https://github.com/1smat/auto-release/commit/18b30789ed6ab6688d0ec1a59012026c759293c9))
+* **release-it:** json file to atom 2 ([95ed42f](https://github.com/1smat/auto-release/commit/95ed42fa3037754a792dac3ba45ba3fb4befb917))
+* **release-it:** json file to codemirror ([7cdefe7](https://github.com/1smat/auto-release/commit/7cdefe79eaa945c1aecbb5a7ff8ae3fdab04d318))
+* **release-it:** json file to conventionalcommits ([31152e8](https://github.com/1smat/auto-release/commit/31152e8d9bd474d67fa571c6297686167a5c15c7))
+* **release-it:** json file to ember ([9312955](https://github.com/1smat/auto-release/commit/9312955bd8fa1884630c8d144367702ab6569318))
+* **release-it:** json file to eslint ([25cc53c](https://github.com/1smat/auto-release/commit/25cc53cd802ae59db32b4adb9aa24b3da5e3d1df))
+* **release-it:** json file to express ([c285731](https://github.com/1smat/auto-release/commit/c285731e97cd452de6b4b665659620417bd27835))
+* **release-it:** json file to jscs ([9aab863](https://github.com/1smat/auto-release/commit/9aab863ae9ec97354a96f66bc9e4e8d9e62f0960))
+* **release-it:** json file to jscs 2 ([f92764d](https://github.com/1smat/auto-release/commit/f92764d32bec04744de382e7312dfe3f18a77e57))
+* **release-it:** json file to jshint ([ad8343c](https://github.com/1smat/auto-release/commit/ad8343c52741fcea56aaf54d3ff61f477571dae0))
+* smth 2 ([70ae60d](https://github.com/1smat/auto-release/commit/70ae60d5f579c12b43901805640332b83d57ecf0))
+* smth 3 ([70cc5f6](https://github.com/1smat/auto-release/commit/70cc5f650bc97383f26c9f4eb9b675ade54ff9fb))
+* smth 3 ([1a888d9](https://github.com/1smat/auto-release/commit/1a888d9a7bcea983f1b686da461a062234e2d02d))
+* **template:** new template ([6484f0b](https://github.com/1smat/auto-release/commit/6484f0b7d204e863b62f1f3b6a505e6b010d8a41))
+* **template:** new template 2 ([a80cfa0](https://github.com/1smat/auto-release/commit/a80cfa0705c0f6daa04c8ac758a5c320bf557a1a))
+* test ([7fdccc3](https://github.com/1smat/auto-release/commit/7fdccc3453b1bd87a88157a6ad54028bb97954b7))
+
 ## [0.7.2](https://github.com/1smat/auto-release/compare/0.7.1...0.7.2) (2023-09-02)
 
 
