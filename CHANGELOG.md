@@ -1,5 +1,12 @@
 
 
+## [0.9.0](https://github.com/1smat/auto-release/compare/0.8.2...0.9.0) (2024-01-25)
+
+
+### Features
+
+* **pages:** added home ([dc72e6a](https://github.com/1smat/auto-release/commit/dc72e6a48ad1dab3a0945c07ee0e3b6d85e56f6d))
+
 ## [0.8.2](https://github.com/1smat/auto-release/compare/0.8.1...0.8.2) (2024-01-25)
 
 ## [0.8.1](https://github.com/1smat/auto-release/compare/0.8.0...0.8.1) (2023-09-03)
